@@ -1,0 +1,29 @@
+[
+    {
+        "username": "walt2",
+        "roles": {
+            "User": 2001,
+            "Editor": 1984,
+            "Admin": 5150
+        },
+        "password": "ssdasdwgfsdfasdff",
+        "refreshToken": "fssvhfsdds5df893rh32e239dbdcj23d"
+    },
+    {
+        "username": "walt1",
+        "roles": {
+            "User": 2001
+        },
+        "password": "sdaadaegjyposkfdi",
+        "refreshToken": "nvdsvni7w78632mncnxzc78cnwicmnw8"
+    },
+    {
+        "username": "walt3",
+        "roles": {
+            "User": 2001,
+            "Editor": 1984
+        },
+        "password": "ssdaghchjhjasdff",
+        "refreshToken": "fssvhdfgh56454645gdzfg39dbdcj23d"
+    }
+]
